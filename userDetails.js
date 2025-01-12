@@ -7,7 +7,7 @@ const userData = {
     },
     {
         "id":2,
-        "name":"sonu",
+        "name":"sonu sharma",
         "age":21
     },
     { 
